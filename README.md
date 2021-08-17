@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Reference: [Flutter Crash Course for Beginners 2021 ](https://www.youtube.com/watch?v=x0uinJvhNxI)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
